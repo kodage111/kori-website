@@ -171,13 +171,6 @@ The site can be deployed to any platform that supports Next.js:
 
 This project is licensed under the MIT License.
 
-## 📞 Contact
-
-For questions about this website:
-
-- Email: contact@kori.app
-- Phone: +237 123 456 789
-
 ---
 
-Built with ❤️ for the Korí beauty platform.
+Built with ❤️ for the Kodage.
